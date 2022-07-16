@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -17,9 +10,9 @@
     Convert text file to handwritten pdf
     <br />
     <br />
-    <a href="https://github.com/shie-ld/textwritten/issues">Report Bug</a>
+    <a href="https://github.com/ujjwal2604/textwritten.git/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shie-ld/textwritten/issues">Request Feature</a>
+    <a href="https://github.com/ujjwal2604/textwritten.git/issues">Request Feature</a>
   </p>
 </p>
 
@@ -35,7 +28,6 @@
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
 
@@ -98,7 +90,7 @@ in your terminal to install all the required dependencies and modules. Else they
 
 1. Clone the repo
 ```sh
-git clone https://github.com/shie-ld/textwritten.git
+git clone https://github.com/ujjwal2604/textwritten.git
 ```
 2. Install required modules
 ```sh
@@ -142,7 +134,7 @@ OPTIONS
 So practical usage will look like:
 ```sh
 # cloning the repo in your machine
-git clone https://github.com/shie-ld/textwritten.git
+git clone https://github.com/ujjwal2604/textwritten.git.git
 
 cd textwritten/src
 
@@ -157,20 +149,7 @@ And you are good to go:smile:
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/shie-ld/textwritten/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+See the [open issues](https://github.com/ujjwal2604/textwritten.git/issues) for a list of proposed features (and known issues)
 
 
 
@@ -184,28 +163,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/shie-ld/textwritten](https://github.com/shie-ld/textwritten)
+Project Link: [https://github.com/ujjwal2604/textwritten.git](https://github.com/ujjwal2604/textwritten.git)
 
 
-Rudresh Dixit : [00rudreshdixit@gmail.com](00rudreshdixit.gmail.com)
-
-
+Ujjwal : [ujjwalkhandelwal10@gmail.com]
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/shie-ld/textwritten.svg?style=flat-square
-[contributors-url]: https://github.com/shie-ld/textwritten/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shie-ld/textwritten.svg?style=flat-square
-[forks-url]: https://github.com/shie-ld/textwritten/network/members
-[stars-shield]: https://img.shields.io/github/stars/shie-ld/textwritten.svg?style=flat-square
-[stars-url]: https://github.com/shie-ld/textwritten/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shie-ld/textwritten.svg?style=flat-square
-[issues-url]: https://github.com/shie-ld/textwritten/issues
-[license-shield]: https://img.shields.io/github/license/shie-ld/textwritten.svg?style=flat-square
-[license-url]: https://github.com/shie-ld/textwritten/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/rudresh-dixit-11a15618a/
 
 
 
