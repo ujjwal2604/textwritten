@@ -1,0 +1,4 @@
+path.py>=12.5.0
+numpy>=1.19.2
+Pillow>=7.2.0
+argparse>=1.4.0
